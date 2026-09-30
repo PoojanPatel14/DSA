@@ -1,4 +1,4 @@
-age = 3
+age = 8
 print(age)
 print(type(age))
 
